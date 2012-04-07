@@ -1,0 +1,4 @@
+Share post in Real time.
+Share Wp comments in real time.
+Hourly and daily pulling of FB comments.
+Logs of all actions.

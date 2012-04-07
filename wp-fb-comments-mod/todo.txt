@@ -1,0 +1,11 @@
+Separate Page for logs
+Log pagination
+Clear logs option
+Number of posts to pull comments from hourly and daily can be custom set.
+Option to pull users avatars along with comments from FB
+Option to manually trigger pulling of comments.
+Include Vedio and images in the post.
+Synchronised comment delete
+Article pulling from FB (make it optional).
+Pre-Filling of Name and Email (Fconnect).
+Option to permanently connect a WP account with a FB account.
