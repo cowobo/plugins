@@ -1,0 +1,4 @@
+This repo contains all plugins that are modded or made for the CoWoBo website.
+
+Now contains:
+wp-fb-comments - Syncs posts from WP to Facebook and merges comments (bidirectional). Modded for control over which categories to sync. CoWoBo theme automatically includes admin page in CoWoBo Social.
